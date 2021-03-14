@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: a6fa3e5383b26714abc07166fcf8916c
+timeCreated: 1429384032
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frames_fita_SPRITE SHEET_0
+    21300002: frames_fita_SPRITE SHEET_1
+    21300004: frames_fita_SPRITE SHEET_2
+    21300006: frames_fita_SPRITE SHEET_3
+    21300008: frames_fita_SPRITE SHEET_4
+    21300010: frames_fita_SPRITE SHEET_5
+    21300012: frames_fita_SPRITE SHEET_6
+    21300014: frames_fita_SPRITE SHEET_7
+    21300016: frames_fita_SPRITE SHEET_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frames_fita_SPRITE SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 613
+        height: 467
+      alignment: 9
+      pivot: {x: .911902845, y: .984503329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 69
+        width: 634
+        height: 424
+      alignment: 9
+      pivot: {x: .862053812, y: .987235904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 54
+        width: 534
+        height: 439
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 114, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 125
+        width: 634
+        height: 368
+      alignment: 9
+      pivot: {x: .908525407, y: .993996024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 115
+        width: 587
+        height: 378
+      alignment: 9
+      pivot: {x: .944971025, y: 1.00325489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 86
+        width: 587
+        height: 406
+      alignment: 9
+      pivot: {x: .952867985, y: .991714299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 64
+        width: 512
+        height: 429
+      alignment: 9
+      pivot: {x: .944607735, y: .980769455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 48
+        width: 565
+        height: 445
+      alignment: 9
+      pivot: {x: .954277873, y: .994382322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frames_fita_SPRITE SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 5391
+        y: 80
+        width: 605
+        height: 413
+      alignment: 9
+      pivot: {x: .934343517, y: .999394894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

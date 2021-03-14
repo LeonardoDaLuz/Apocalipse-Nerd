@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: d16ff827e0ee8224091830e7460ebc64
+timeCreated: 1432596256
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "cabe\xE7"
+    21300002: torax
+    21300004: "bra\xE7o esquerdo"
+    21300006: perna direita
+    21300008: boris-dimensions-cut-out_4
+    21300010: perna esquerda
+    21300012: "bra\xE7o direito"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "cabe\xE7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: .416971952, y: .0996400937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: torax
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: .561050236, y: .500000238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bra\xE7o esquerdo"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: .178230733, y: .884615481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: perna direita
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: .677271307, y: .780341804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-dimensions-cut-out_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 39
+        width: 36
+        height: 13
+      alignment: 9
+      pivot: {x: .5, y: .289612114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: perna esquerda
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: .418511331, y: .933045685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bra\xE7o direito"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .927350819, y: .888500571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

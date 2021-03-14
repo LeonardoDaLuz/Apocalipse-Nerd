@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 72d4a964c08eb2a4482c2a9001682333
+timeCreated: 1429386723
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HEROI_spritesheet_0
+    21300002: HEROI_spritesheet_1
+    21300004: HEROI_spritesheet_2
+    21300006: HEROI_spritesheet_3
+    21300008: HEROI_spritesheet_4
+    21300010: HEROI_spritesheet_5
+    21300012: HEROI_spritesheet_6
+    21300014: HEROI_spritesheet_8
+    21300016: HEROI_spritesheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HEROI_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 159
+        width: 284
+        height: 462
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 139
+        width: 618
+        height: 495
+      alignment: 9
+      pivot: {x: .428824306, y: .488892287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 152
+        width: 785
+        height: 527
+      alignment: 9
+      pivot: {x: .366919398, y: .463483602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 128
+        width: 700
+        height: 500
+      alignment: 9
+      pivot: {x: .464653671, y: .439518303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 128
+        width: 420
+        height: 500
+      alignment: 9
+      pivot: {x: .435080677, y: .480524242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 130
+        width: 727
+        height: 636
+      alignment: 9
+      pivot: {x: .459488094, y: .396695495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 5494
+        y: 110
+        width: 821
+        height: 660
+      alignment: 9
+      pivot: {x: .364783555, y: .393586725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 135
+        width: 502
+        height: 486
+      alignment: 9
+      pivot: {x: .432303995, y: .472029954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 114
+        width: 870
+        height: 521
+      alignment: 9
+      pivot: {x: .401043922, y: .465211898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
